@@ -10,4 +10,4 @@ def duplicate_count(text):
     print(set(count_list))
     print(len(set(count_list)))
     return len(set(count_list))
-duplicate_count('abcdeaaaa')
+duplicate_count('abcdeabaaa')

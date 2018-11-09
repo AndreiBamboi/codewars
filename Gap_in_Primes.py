@@ -26,3 +26,4 @@ def is_prime(n):
         i += 1
     return True
 gap(5,100,120)
+
