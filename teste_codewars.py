@@ -1,28 +1,9 @@
-def gap(g, m, n):
-    start = 0
-    end = 0
-    for i in range(m, n + 1):
-        if is_prime(i):
-            print(i)
-            if start == 0:
-                start = i
-            elif end == 0:
-                end = i
-            else:
-                start = end
-                end = i
-        if end - start == g:
-            return [start, end]
-    return None
+var = 234
+va2 = 345
+va3 = 543
+dict
 
-
-def is_prime(n):
-    if n <= 0 or n == 1:
-        return False
-    i = 2
-    while (i <= n ** 0.5):
-        if n % i == 0:
-            return False
-        i += 1
-    return True
-gap(5,100,120)
+print("%02d:%02d:%02d" % (var, va2, va3))
+print('{}:{}:{}'.format(var,va2,va3))
+print('%s si ce daca %s' % (var,'doi'))
+print('{:04d}'.format(va2))
