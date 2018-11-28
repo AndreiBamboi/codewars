@@ -5,3 +5,14 @@ dcas
 c
 asc
 sac
+Python Programming Test:
+
+Instruction:
+
+From the zip file "data.zip"
+
+Create a new file called summary.csv, with the following headings:
+    * report - the filename from each "report" file found within the zip file
+    * pos - the total sum from column 4 in each of the reports
+    * neg - the total sum from column 5 in each of the reports
+    * tot - the sum from the last column in each of the reports

@@ -1,9 +1,8 @@
-var = 234
-va2 = 345
-va3 = 543
-dict
+infile = open(r"./Client_script/file.txt", "r")
+line = infile.readline()
+while line:
+    values = line.split()
+    print('QB ', values[0], values[1], 'had a rating of ', values[2] )
+    line = infile.readline()
 
-print("%02d:%02d:%02d" % (var, va2, va3))
-print('{}:{}:{}'.format(var,va2,va3))
-print('%s si ce daca %s' % (var,'doi'))
-print('{:04d}'.format(va2))
+infile.close()
