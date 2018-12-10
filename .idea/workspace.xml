@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/teste_codewars.py" line="7" mnemonic="9" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="2fadfe52-7379-44d3-907f-46ba5d703deb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/observed_pin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple_fun.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning Python 5E/cap12_if_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkio/sort-array-by-element-frequency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validate_sudoku.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teste_codewars.py" beforeDir="false" afterPath="$PROJECT_DIR$/teste_codewars.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,21 +17,44 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/simple_fun.py">
+        <entry file="file://$PROJECT_DIR$/calculator_necesar_tapet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+            <state relative-caret-position="374">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/teste_codewars.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" selection-start-line="19" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/checkio/sort-array-by-element-frequency.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="12" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="10" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/validate_sudoku.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/observed_pin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/Learning Python 5E/cap12_if_test.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -65,7 +86,6 @@
         <option value="$PROJECT_DIR$/human_readable_time.py" />
         <option value="$PROJECT_DIR$/4by4_skyscrapers" />
         <option value="$PROJECT_DIR$/last_digit_of_large_number.py" />
-        <option value="$PROJECT_DIR$/teste_codewars.py" />
         <option value="$PROJECT_DIR$/Client_script/fisier.txt" />
         <option value="$PROJECT_DIR$/vaqrioustests.py" />
         <option value="$PROJECT_DIR$/code.py" />
@@ -79,14 +99,18 @@
         <option value="$PROJECT_DIR$/Client_script/solution.py" />
         <option value="$PROJECT_DIR$/simple_fun.py" />
         <option value="$PROJECT_DIR$/observed_pin.py" />
+        <option value="$PROJECT_DIR$/teste_codewars.py" />
+        <option value="$PROJECT_DIR$/checkio/sort-array-by-element-frequency.py" />
+        <option value="$PROJECT_DIR$/validate_sudoku.py" />
+        <option value="$PROJECT_DIR$/Learning Python 5E/cap12_if_test.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1205" />
-    <option name="y" value="79" />
-    <option name="width" value="896" />
-    <option name="height" value="496" />
+    <option name="x" value="-19" />
+    <option name="y" value="62" />
+    <option name="width" value="1120" />
+    <option name="height" value="620" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -100,11 +124,6 @@
             <path>
               <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
               <item name="codewars" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codewars" type="462c0819:PsiDirectoryNode" />
-              <item name="Client_script" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -129,28 +148,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.simple_fun">
-    <configuration name="code01" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="codewars" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.sort-array-by-element-frequency">
     <configuration name="simple_fun" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -193,7 +191,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sort-array-by-element-frequency" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -201,11 +199,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Client_script" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/checkio" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Client_script/test1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/checkio/sort-array-by-element-frequency.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -235,20 +233,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="teste_codewars" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="codewars" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste_codewars.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.code01" />
-      <item itemvalue="Python.test1" />
       <item itemvalue="Python.teste" />
       <item itemvalue="Python.solution" />
       <item itemvalue="Python.simple_fun" />
+      <item itemvalue="Python.teste_codewars" />
+      <item itemvalue="Python.sort-array-by-element-frequency" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sort-array-by-element-frequency" />
+        <item itemvalue="Python.teste_codewars" />
         <item itemvalue="Python.simple_fun" />
         <item itemvalue="Python.solution" />
         <item itemvalue="Python.teste" />
-        <item itemvalue="Python.test1" />
-        <item itemvalue="Python.code01" />
       </list>
     </recent_temporary>
   </component>
@@ -266,25 +285,24 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="2" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12802951" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4979757" visible="true" weight="0.16060807" />
+      <window_info id="Structure" order="1" sideWeight="0.5020243" side_tool="true" weight="0.16060807" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="DB Browser" order="4" />
       <window_info id="Job Explorer" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.16251354" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30028328" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Console" order="7" />
       <window_info anchor="bottom" id="DB Execution Console" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.17226435" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.17396061" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.329718" />
@@ -301,9 +319,6 @@
           <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/calculator_necesar_tapet.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Build_a_pile_of_Cubes.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -517,13 +532,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/teste_codewars.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -554,10 +562,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/observed_pin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        <state relative-caret-position="255">
+          <caret line="15" column="75" lean-forward="true" selection-start-line="15" selection-start-column="75" selection-end-line="15" selection-end-column="75" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calculator_necesar_tapet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teste_codewars.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="19" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkio/sort-array-by-element-frequency.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validate_sudoku.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning Python 5E/cap12_if_test.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
